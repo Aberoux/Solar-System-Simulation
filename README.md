@@ -3,7 +3,7 @@ Unity third year project
 
 Last used in Unity version 2019.4.18f1
 
-Go into Unity hub andd "add" the "Solar System Simulation" folder
+Go into Unity hub and "add" the "Solar System Simulation" folder
 
 Required packages: Post Processing (3.0.3 or above): To install: Window > Package Manager > Post Processing  
 
