@@ -3,9 +3,9 @@ Unity third year project
 
 Last used in Unity version 2019.4.18f1
 
-Required packages: Post Processing (3.0.3 or above)
+Go into Unity hub andd "add" the "Solar System Simulation" folder
 
-To install: Window > Package Manager > Post Processing  
+Required packages: Post Processing (3.0.3 or above): To install: Window > Package Manager > Post Processing  
 
 (should be on 'glowplanets' scene)
 
